@@ -15,6 +15,7 @@ const users = [
     { name: 'Jim', age: 35 },
     { name: 'Jake', age: 28 },
     { name: 'Jill', age: 32 },
+    { name: 'Bill', age: 37 },
     { name: 'Joe', age: 29 }
 ];
 
